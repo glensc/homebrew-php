@@ -5,6 +5,7 @@ A centralized repository for PHP-related brews.
 ## Requirements
 
 * [Homebrew](https://github.com/Homebrew/brew)
+* [homebrew Apache](https://github.com/Homebrew/homebrew-apache)
 * Yosemite, El Capitan, and Sierra. Untested everywhere else.
 
 ## Installation
@@ -12,6 +13,7 @@ A centralized repository for PHP-related brews.
 Run the following in your command-line:
 
 ```sh
+$ brew tap homebrew/homebrew-apache
 $ brew tap homebrew/homebrew-php
 ```
 
